@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me :  hamzabchiri342@gmail.com
 
-<!---
-hamzabchiri/hamzabchiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  Overall, my work as an RPA developer using UiPath, Microsoft technologies, Tableau, and Power BI helps organizations to automate their business processes, gain insights from their data, and achieve their strategic objectives.
