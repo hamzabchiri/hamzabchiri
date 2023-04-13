@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HamzaBchiri
+- 👋 Hi, I’m @hamzabchiri
 - 👀 I’m interested in RPA, automation, Data
 - 🌱 I’m currently an RPA Developer @ TUI - TUI Global Business Service | Center of Excellence for automation
 - 💞️ I’m looking to collaborate on projects
